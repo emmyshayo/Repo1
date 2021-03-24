@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D05D-5E3F
+
+ Directory of C:\Users\user\Desktop\My Project
+
+03/24/2021  12:51 PM    <DIR>          .
+03/24/2021  12:51 PM    <DIR>          ..
+01/07/2021  01:55 PM                22 index.html
+01/07/2021  03:14 PM                 0 index2.html
+01/14/2021  04:26 PM         1,480,387 MAIN PROJECT-2017.pdf
+01/07/2021  01:54 PM               371 test1.txt
+01/07/2021  03:17 PM                 5 test2.txt
+03/24/2021  12:51 PM                 0 test4.txt
+               6 File(s)      1,480,785 bytes
+               2 Dir(s)  391,154,274,304 bytes free
